@@ -1,63 +1,125 @@
-Projects Portfolio
+# 👨‍💻 Projects Portfolio
 
-Welcome to my project portfolio repository. This repository highlights my key projects focused on web development, backend systems, and problem-solving platforms.
-
-📌 Projects Overview
-🔹 [Portfolio Website](https://shashiverma.netlify.app/) *(Live Project)*
-A personal portfolio website showcasing my projects, technical skills, and background.
-
-- Fully responsive and optimized for performance.
-- Developed using HTML, CSS, and JavaScript.
-- Designed to provide a clean and professional user experience.
+Welcome to my **Project Portfolio Repository**!  
+This space highlights my key projects focused on **web development**, **backend systems**, and **problem-solving platforms**, reflecting my passion for building scalable and user-friendly software.
 
 ---
 
- 🔹 LeetCode Solution Hub *(In Development)*
-A comprehensive coding solution platform inspired by LeetCode, aimed at simplifying the process of finding and understanding algorithmic solutions.
+## 📌 Projects Overview
+
+### 🔹 [🌐 Portfolio Website](https://codehavens.netlify.app/) &nbsp; *(Live Project)*
+A sleek and responsive personal website showcasing my skills, projects, and technical profile.
+
+**Features:**
+- Fully responsive layout optimized for mobile and desktop.
+- Built using **HTML**, **CSS**, and **JavaScript**.
+- Clean and professional user interface.
+
+---
+
+### 🔹 🎶 Eren Wave – Music Streaming Website *(Live Project)*  
+A full-featured music streaming website inspired by Spotify, built with a responsive, immersive UI and core playback features.
 
 **Key Features:**
-- Multi-language support (Python, Java, etc.)
-- Dark Mode for enhanced readability.
-- Language switcher tabs for seamless navigation.
-- Categorized solutions with a focus on clarity and structure.
-- Search and filter functionality (Upcoming).
+- Browse & play music from playlists
+- Now Playing section with seek bar
+- Queue System and global playback controls
+- Favorites, Search, Theme toggle, and Animation effects
+- Consistent color palette (#1DB954 + custom neon)
+
+**Tech Stack:**  
+HTML, CSS, JavaScript, LocalStorage
+
+**Live Demo:**  
+🔗 [https://erenwave.netlify.app](https://codehavens.netlify.app/eren_spotifyer)
 
 ---
 
- 🔹 Blog Platform *(In Development)*
-A full-stack blogging platform designed for users to create, edit, and manage blog posts securely.
+### 🔹 🎵 Eren Wave – Web Music Player *(Spotify Clone - Web App)*  
+A standalone advanced music player web app with features like a mini queue, local login, and dark UI.
 
 **Key Features:**
-- JWT-based secure authentication.
-- RESTful API with Node.js and Express.
-- MongoDB for data storage and management.
-- Modern, responsive UI built with React.
-- Postman used for API development and testing.
-- Emphasis on scalability and maintainability.
+- Play/Pause, Next/Previous, Shuffle, Repeat
+- Queue System with Now Playing Info
+- Global Search across all playlists
+- Favorite Songs & Playlist Switching
+- Login System with localStorage
+- Dark Theme with Spotify-like design
+
+**Tech Stack:**  
+HTML, CSS, JavaScript (Vanilla), LocalStorage
 
 ---
 
- 🛠️ Technologies & Tools
+### 🔹 📱 Eren Wave – Offline Android App *(Spotify Clone - Android App)*  
+An offline-first Android music player app using **Jetpack Compose** and **MediaPlayer** for local songs.
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express, MongoDB, SQL
-- **Programming Languages:** Python, C, C++, Java
-- **Other Tools:** Postman, Android Studio, JWT, REST APIs, Git, GitHub
+**Key Features:**
+- Auto fetch songs from phone storage
+- Play/Pause, Auto-next, Mini Player
+- Recently Played & Favorite Songs list
+- Playlist Switching & Queue Display
+- Now Playing UI with Animation
+- Built with `rememberSaveable` for persistent state
 
----
-
- 🎯 Focus Areas
-- Full-Stack Web Development
-- Scalable Backend Systems
-- API Development & Testing
-- Problem-Solving Platforms
-- Clean Code & Best Practices
-- UI/UX Optimization
+**Tech Stack:**  
+Kotlin, Jetpack Compose, Android Studio
 
 ---
 
- 🔗 Contact & Collaboration
-I am passionate about building scalable solutions and always open to collaboration or professional opportunities.
+### 🔹 📝 LeetCode Solution Hub
+A W3Schools-style platform designed to simplify coding practice and algorithmic problem-solving.
 
-Feel free to explore my projects and connect with me.
+**Key Features:**
+- Multi-language support (**Python**, **Java**, and more)
+- Dark Mode toggle for better readability
+- Language tabs for seamless switching
+- Categorized and structured problem solutions
+- 🔍 *Search and filter functionality (Upcoming)*
 
+---
+
+### 🔹 📰 Blog Platform *(In Development)*
+A modern full-stack blogging system enabling secure blog management.
+
+**Tech Stack:**
+- **Frontend:** React.js (Responsive UI)
+- **Backend:** Node.js + Express.js
+- **Database:** MongoDB
+- **Auth:** JWT-based secure login system
+- **API Testing:** Postman
+
+**Focus:**
+- RESTful architecture
+- Secure authentication
+- Scalable backend structure
+
+---
+
+## 🛠️ Technologies & Tools
+
+| Frontend        | Backend         | Database     | Languages                  | Tools                                 |
+|-----------------|------------------|--------------|------------------------------|----------------------------------------|
+| HTML, CSS, JS   | Node.js, Express | MongoDB, SQL | Python, C, C++, Java, Kotlin | Git, GitHub, JWT, Postman, Android Studio |
+
+---
+
+## 🎯 Focus Areas
+
+- ✅ Full-Stack Web Development  
+- ✅ Secure & Scalable Backend Systems  
+- ✅ RESTful API Design & Testing  
+- ✅ Android App Development (Jetpack Compose)  
+- ✅ Problem Solving & Competitive Coding  
+- ✅ Clean Code & Maintainability  
+- ✅ Responsive UI/UX Design  
+
+---
+
+## 🔗 Contact & Collaboration
+
+I’m passionate about building impactful software and always open to collaborations, freelance opportunities, or tech discussions.
+
+> 📬 **Feel free to connect, explore my work, and drop a message if you're interested in working together!**
+
+---

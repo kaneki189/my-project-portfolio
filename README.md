@@ -7,7 +7,7 @@ This space highlights my key projects focused on **web development**, **backend 
 
 ## 📌 Projects Overview
 
-### 🔹 [🌐 Portfolio Website](https://codehavens.netlify.app/) &nbsp; *(Live Project)*
+### 🔹 [🌐 Portfolio Website](https://codehavens.netlify.app/) &nbsp; *(Live Project)*  
 A sleek and responsive personal website showcasing my skills, projects, and technical profile.
 
 **Features:**
@@ -21,17 +21,17 @@ A sleek and responsive personal website showcasing my skills, projects, and tech
 A full-featured music streaming website inspired by Spotify, built with a responsive, immersive UI and core playback features.
 
 **Key Features:**
-- Browse & play music from playlists
-- Now Playing section with seek bar
-- Queue System and global playback controls
-- Favorites, Search, Theme toggle, and Animation effects
+- Browse & play music from playlists  
+- Now Playing section with seek bar  
+- Queue System and global playback controls  
+- Favorites, Search, Theme toggle, and Animation effects  
 - Consistent color palette (#1DB954 + custom neon)
 
 **Tech Stack:**  
 HTML, CSS, JavaScript, LocalStorage
 
 **Live Demo:**  
-🔗 [https://erenwave.netlify.app](https://codehavens.netlify.app/eren_spotifyer)
+🔗 [https://codehavens.netlify.app/eren_spotifyer](https://codehavens.netlify.app/eren_spotifyer)
 
 ---
 
@@ -39,11 +39,11 @@ HTML, CSS, JavaScript, LocalStorage
 A standalone advanced music player web app with features like a mini queue, local login, and dark UI.
 
 **Key Features:**
-- Play/Pause, Next/Previous, Shuffle, Repeat
-- Queue System with Now Playing Info
-- Global Search across all playlists
-- Favorite Songs & Playlist Switching
-- Login System with localStorage
+- Play/Pause, Next/Previous, Shuffle, Repeat  
+- Queue System with Now Playing Info  
+- Global Search across all playlists  
+- Favorite Songs & Playlist Switching  
+- Login System with localStorage  
 - Dark Theme with Spotify-like design
 
 **Tech Stack:**  
@@ -55,11 +55,11 @@ HTML, CSS, JavaScript (Vanilla), LocalStorage
 An offline-first Android music player app using **Jetpack Compose** and **MediaPlayer** for local songs.
 
 **Key Features:**
-- Auto fetch songs from phone storage
-- Play/Pause, Auto-next, Mini Player
-- Recently Played & Favorite Songs list
-- Playlist Switching & Queue Display
-- Now Playing UI with Animation
+- Auto fetch songs from phone storage  
+- Play/Pause, Auto-next, Mini Player  
+- Recently Played & Favorite Songs list  
+- Playlist Switching & Queue Display  
+- Now Playing UI with Animation  
 - Built with `rememberSaveable` for persistent state
 
 **Tech Stack:**  
@@ -67,32 +67,38 @@ Kotlin, Jetpack Compose, Android Studio
 
 ---
 
-### 🔹 📝 LeetCode Solution Hub
-A W3Schools-style platform designed to simplify coding practice and algorithmic problem-solving.
+### 🔹 📝 IdeaNest – Blog Platform *(Live Project)*  
+A modern full-stack blogging system for creating, reading, and interacting with blogs.
 
 **Key Features:**
-- Multi-language support (**Python**, **Java**, and more)
-- Dark Mode toggle for better readability
-- Language tabs for seamless switching
-- Categorized and structured problem solutions
-- 🔍 *Search and filter functionality (Upcoming)*
+- Create and manage blogs with rich content  
+- Secure login/register system  
+- Like and comment on posts  
+- Explore blogs by category  
+- Fully responsive & dark-mode enabled  
+- Frontend-only login system (LocalStorage-based)
+
+**Tech Stack:**
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend (API):** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Auth:** JWT for backend API, localStorage for frontend  
+- **Tools:** Postman, GitHub
+
+**Live Demo:**  
+🔗 [https://codehavens.netlify.app/blog](https://codehavens.netlify.app/blog)
 
 ---
 
-### 🔹 📰 Blog Platform *(In Development)*
-A modern full-stack blogging system enabling secure blog management.
+### 🔹 🧠 LeetCode Solution Hub  
+A W3Schools-style platform designed to simplify coding practice and algorithmic problem-solving.
 
-**Tech Stack:**
-- **Frontend:** React.js (Responsive UI)
-- **Backend:** Node.js + Express.js
-- **Database:** MongoDB
-- **Auth:** JWT-based secure login system
-- **API Testing:** Postman
-
-**Focus:**
-- RESTful architecture
-- Secure authentication
-- Scalable backend structure
+**Key Features:**
+- Multi-language support (**Python**, **Java**, and more)  
+- Dark Mode toggle for better readability  
+- Language tabs for seamless switching  
+- Categorized and structured problem solutions  
+- 🔍 *Search and filter functionality (Upcoming)*
 
 ---
 
@@ -121,5 +127,3 @@ A modern full-stack blogging system enabling secure blog management.
 I’m passionate about building impactful software and always open to collaborations, freelance opportunities, or tech discussions.
 
 > 📬 **Feel free to connect, explore my work, and drop a message if you're interested in working together!**
-
----

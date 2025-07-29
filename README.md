@@ -1,206 +1,201 @@
 # 👨‍💻 Projects Portfolio
 
-Welcome to my **Project Portfolio Repository**!
+Welcome to my **Project Portfolio Repository**!  
 This space highlights my key projects focused on **web development**, **backend systems**, **automation**, **DSA**, and **AI-powered tools**, reflecting my passion for building scalable, smart, and user-friendly software.
 
 ---
 
 ## 📌 Projects Overview
 
-### 🔹 [🌐 Portfolio Website](https://codehavens.netlify.app/)   *(Live Project)*
-
+### 🔹 [🌐 Portfolio Website](https://codehavens.netlify.app/) *(Live Project)*  
 A sleek and responsive personal website showcasing my skills, projects, and technical profile.
 
 **Features:**
-
-* Fully responsive layout optimized for mobile and desktop.
-* Built using **HTML**, **CSS**, and **JavaScript**.
-* Clean and professional user interface.
+- Fully responsive layout (mobile + desktop)
+- Built using **HTML**, **CSS**, **JavaScript**
+- Clean, dark-mode interface with animation and project previews
 
 ---
 
-### 🔹 🎶 Eren Wave – Music Streaming Website *(Live Project)*
-
-A full-featured music streaming website inspired by Spotify, built with a responsive, immersive UI and core playback features.
+### 🔹 🎶 Eren Wave – Music Streaming Website *(Live Project)*  
+A full-featured music streaming website inspired by Spotify.
 
 **Key Features:**
+- Playlist browsing, playback, queue system  
+- Now Playing UI, favorites, search, animations  
+- Theme toggle, persistent state via LocalStorage  
 
-* Browse & play music from playlists
-* Now Playing section with seek bar
-* Queue System and global playback controls
-* Favorites, Search, Theme toggle, and Animation effects
-* Consistent color palette (#1DB954 + custom neon)
+**Tech Stack:** HTML, CSS, JavaScript
 
-**Tech Stack:**
-HTML, CSS, JavaScript, LocalStorage
-
-**Live Demo:**
-🔗 [https://codehavens.netlify.app/eren\_spotifyer](https://codehavens.netlify.app/eren_spotifyer)
+🔗 [Live Demo](https://codehavens.netlify.app/eren_spotifyer)
 
 ---
 
-### 🔹 🎵 Eren Wave – Web Music Player *(Spotify Clone - Web App)*
-
-A standalone advanced music player web app with features like a mini queue, local login, and dark UI.
-
-**Key Features:**
-
-* Play/Pause, Next/Previous, Shuffle, Repeat
-* Queue System with Now Playing Info
-* Global Search across all playlists
-* Favorite Songs & Playlist Switching
-* Login System with localStorage
-* Dark Theme with Spotify-like design
-
-**Tech Stack:**
-HTML, CSS, JavaScript (Vanilla), LocalStorage
-
----
-
-### 🔹 📱 Eren Wave – Offline Android App *(Spotify Clone - Android App)*
-
-An offline-first Android music player app using **Jetpack Compose** and **MediaPlayer** for local songs.
-
-**Key Features:**
-
-* Auto fetch songs from phone storage
-* Play/Pause, Auto-next, Mini Player
-* Recently Played & Favorite Songs list
-* Playlist Switching & Queue Display
-* Now Playing UI with Animation
-* Built with `rememberSaveable` for persistent state
-
-**Tech Stack:**
-Kotlin, Jetpack Compose, Android Studio
-
----
-
-### 🔹 📝 IdeaNest – Blog Platform *(Live Project)*
-
-A modern full-stack blogging system for creating, reading, and interacting with blogs.
-
-**Key Features:**
-
-* Create and manage blogs with rich content
-* Secure login/register system
-* Like and comment on posts
-* Explore blogs by category
-* Fully responsive & dark-mode enabled
-* Frontend-only login system (LocalStorage-based)
-
-**Tech Stack:**
-
-* **Frontend:** HTML, CSS, JavaScript
-* **Backend (API):** Node.js, Express.js
-* **Database:** MongoDB
-* **Auth:** JWT for backend API, localStorage for frontend
-* **Tools:** Postman, GitHub
-
-**Live Demo:**
-🔗 [https://codehavens.netlify.app/blog](https://codehavens.netlify.app/blog)
-
----
-
-### 🔹 🧠 CodeWarz – Competitive Coding Platform
-
-A platform for programmers to practice coding challenges and compete.
+### 🔹 🎵 Eren Wave – Web Music Player *(Spotify Clone - Web App)*  
+A dark-themed advanced player with full music control.
 
 **Features:**
+- Playback controls (Play/Pause, Next, Shuffle)  
+- Local login system (localStorage)  
+- Queue display, favorites, search, playlist switching  
 
-* Timed challenges
-* Real-time code editor (in development)
-* Score tracking & history
-
-**Tech Stack:** HTML, CSS, JS (with backend integration planned)
+**Tech Stack:** HTML, CSS, JavaScript (Vanilla)
 
 ---
 
-### 🔹 ✅ To Do List App
-
-A simple, user-friendly task manager to help users organize and manage tasks efficiently.
+### 🔹 📱 Eren Wave – Offline Android App *(Spotify Clone - Android App)*  
+An offline-first Android app for local music playback.
 
 **Features:**
+- Fetch local songs from device  
+- Auto next, mini player, playlist switching  
+- Built with `rememberSaveable`, Jetpack Compose  
 
-* Add, delete, and complete tasks
-* Local storage-based persistence
-* Clean and minimal UI
+**Tech Stack:** Kotlin, Android Studio
 
 ---
 
-### 🔹 🤖 CodeCraft AI
+### 🔹 📝 IdeaNest – Blog Platform *(Live Project)*  
+A full-stack blog platform for writing and reading blogs.
 
-An intelligent AI-powered task manager that helps you plan, prioritize, and complete work with smart suggestions.
+**Features:**
+- Rich-text blog creation  
+- Secure login/register system  
+- Like, comment, explore by category  
+- Dark mode + fully responsive  
+
+**Tech Stack:**  
+Frontend: HTML, CSS, JavaScript  
+Backend: Node.js, Express.js  
+Database: MongoDB  
+Auth: JWT + LocalStorage  
+Tools: Postman, GitHub
+
+🔗 [Live Demo](https://codehavens.netlify.app/blog)
+
+---
+
+### 🔹 🧠 CodeWarz – Competitive Coding Platform  
+A platform for coding challenges and competitions.
+
+**Features:**
+- Timed challenges and coding battles  
+- Score tracking and challenge history  
+
+**Tech Stack:** HTML, CSS, JS *(Backend in progress)*
+
+---
+
+### 🔹 ✅ To Do List App  
+A simple and clean task manager for productivity.
+
+**Features:**
+- Add, complete, and delete tasks  
+- Tasks stored using localStorage  
+- Minimal UI + keyboard-friendly UX  
+
+---
+
+### 🔹 🧪 To-Do Selenium Testing  
+An end-to-end Selenium testing project for the To-Do app.
+
+**Highlights:**
+- Adds, edits, completes, and deletes tasks automatically  
+- Headless testing support  
+- Validates UI behavior and DOM updates  
+
+**Tech Stack:** Python, Selenium
+
+---
+
+### 🔹 🤖 CodeCraft AI  
+AI-powered smart task manager with GPT integration.
+
+**Features:**
+- Organize, prioritize, and manage tasks  
+- AI suggests task names and sorting  
+- Built with modern UI + glassmorphism style  
 
 **Tech Stack:** HTML, CSS, JS + GPT API
 
 ---
 
-### 🔹 📧 MailCraft AI
+### 🔹 🤖 CodeCraft AI – Selenium Testing  
+An automated test script for CodeCraft AI platform.
 
-AI tool to generate professional, concise, and personalized emails instantly.
+**Highlights:**
+- Form auto-fill using Selenium  
+- Task submission and feedback validation  
+- File-saving automation for generated content  
 
-**Features:**
-
-* Predefined tone & formats
-* Copy-to-clipboard & send options
-* Email use-cases: job, inquiry, support, etc.
-
----
-
-### 🔹 📰 ArticleCraft AI
-
-AI article generator that creates high-quality blog posts or content from a simple prompt.
-
-**Tech Stack:** HTML, CSS, Flask (Python backend), GPT API
+**Tech Stack:** Python, Selenium
 
 ---
 
-### 🔹 🤖 Eren AI Assistant
-
-A voice-controlled GPT-4 powered AI assistant for automation, task management, and productivity.
+### 🔹 📧 MailCraft AI  
+A smart email generator powered by GPT.
 
 **Features:**
-
-* Voice input and output
-* Create notes, articles, or send emails
-* Multi-platform (Web + Python App)
+- Generates emails (job, inquiry, support, etc.)  
+- Predefined tones and formats  
+- Copy-to-clipboard and send via `mailto:`  
 
 ---
 
-### 🔹 🔢 LeetCode Solution Hub
-
-A W3Schools-style site for structured coding problems in Python, Java, and C++.
+### 🔹 📰 ArticleCraft AI  
+AI content generator using GPT for fast article writing.
 
 **Features:**
+- 500-word article generation  
+- Saves to downloadable Word files  
+- Flask backend with clean frontend  
 
-* Multi-language toggle
-* Categorized problems
-* Upcoming: live code editor + user progress
+**Tech Stack:** HTML, CSS, Flask (Python), GPT API
+
+---
+
+### 🔹 🎙️ Eren AI Assistant  
+A voice-controlled GPT-4 assistant to automate work.
+
+**Features:**
+- Voice input/output  
+- Generate articles, notes, and emails  
+- Multiplatform (Web + Python version)
+
+---
+
+### 🔹 🔢 LeetCode Solution Hub  
+A solution portal for coding problems in 3 languages.
+
+**Features:**
+- Python, Java, and C++ support  
+- Categorized problem sets  
+- Live editor and progress tracking (coming soon)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-| Frontend      | Backend          | Database     | Languages                    | Tools                                               |
-| ------------- | ---------------- | ------------ | ---------------------------- | --------------------------------------------------- |
-| HTML, CSS, JS | Node.js, Express | MongoDB, SQL | Python, C, C++, Java, Kotlin | Git, GitHub, JWT, Postman, Selenium, Android Studio |
+| Frontend      | Backend          | Database     | Languages                    | Tools                                                   |
+| ------------- | ---------------- | ------------ | ---------------------------- | ------------------------------------------------------- |
+| HTML, CSS, JS | Node.js, Express | MongoDB, SQL | Python, C, C++, Java, Kotlin | Git, GitHub, JWT, Postman, Selenium, Android Studio     |
 
 ---
 
 ## 🎯 Focus Areas
 
-* ✅ Full-Stack Web Development
-* ✅ RESTful API Design & Backend Systems
-* ✅ Android App Development (Jetpack Compose)
-* ✅ Automation & Testing (Selenium)
-* ✅ Problem Solving & DSA (Competitive Coding)
-* ✅ Clean UI/UX & Mobile-First Design
-* ✅ AI Tool Integration using GPT
+- ✅ Full-Stack Web Development (MERN Stack)
+- ✅ Android App Development (Jetpack Compose)
+- ✅ RESTful APIs & Backend Systems
+- ✅ Automation Testing (Selenium, Python)
+- ✅ Problem Solving & DSA (Competitive Coding)
+- ✅ AI-Powered Web Tools using GPT APIs
+- ✅ Clean UI/UX & Responsive Design
 
 ---
 
 ## 🔗 Contact & Collaboration
 
-I’m passionate about building impactful software and always open to collaborations, freelance opportunities, or tech discussions.
+I'm always excited to build meaningful tech, contribute to open-source, or collaborate on impactful ideas.
 
-> 📬 **Feel free to connect, explore my work, and drop a message if you're interested in working together!**
+> 📬 **Let’s connect! Whether it’s a freelance project, collab idea, or coding chat — I’d love to hear from you.**
